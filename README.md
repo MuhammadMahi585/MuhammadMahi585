@@ -1,6 +1,6 @@
 # 🚀 Muhammad Mahi Mahessar  
 
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey+There!+I'm+Mahi👋&fontSize=32&fontAlignY=35&animation=twinkling)  
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=2f2f2f&height=180&section=header&text=Hey+There!+I'm+Mahi👋&fontSize=32&fontAlignY=35&animation=twinkling)
 
 🎓 Software Engineering Student @ NUST (7th Semester)  
 💼 Business Intelligence Associate @ Data BI  
