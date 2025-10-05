@@ -2,26 +2,17 @@
 
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey+There!+I'm+Mahi👋&fontSize=32&fontAlignY=35&animation=twinkling)  
 
-🎓 Software Engineering Student @ NUST (5th Semester)  
+🎓 Software Engineering Student @ NUST (7th Semester)  
 💼 Business Intelligence Associate @ Data BI  
-💻 Passionate about **Android | Web | AI/ML**  
-⚡ Cricket lover | 📚 Book enthusiast  
+💻 Passionate about **Android | Web | BI and ML** 
 
 ---
 
 ## 🔥 Tech Arsenal  
-💻 **Languages:** Java · Kotlin · Python · JavaScript · TypeScript · C++  
+💻 **Languages:** Java · Kotlin · Python · JavaScript · TypeScript · C++ . M Language . DAX
 🛠 **Frameworks:** React · Next.js · Node.js · Express · Jetpack Compose  
 🗄 **Databases:** PostgreSQL · MongoDB · Firebase · Room DB  
-⚙️ **Tools:** Git/GitHub · Docker · Figma · Power BI  
-
----
-
-## 🌟 Highlight Projects  
-- ✈️ **Flight Search App** → Jetpack Compose + Room + DataStore  
-- 📝 **Notes App** → MVVM + SQLite  
-- 💬 **Chat App** → Firebase + Jetpack Compose  
-- 💰 **Chibi Coin** → React, React Native, Node.js, MongoDB  
+⚙️ **Tools:** Git/GitHub · Docker · Power BI · Tableau 
 
 ---
 
