@@ -9,7 +9,7 @@
 ---
 
 ## 🔥 Tech Arsenal  
-💻 **Languages:** Java · Kotlin · Python · JavaScript · TypeScript · C++ . M Language . DAX
+💻 **Languages:** Java · Kotlin · Python · JavaScript · TypeScript · C++
 🛠 **Frameworks:** React · Next.js · Node.js · Express · Jetpack Compose  
 🗄 **Databases:** PostgreSQL · MongoDB · Firebase · Room DB  
 ⚙️ **Tools:** Git/GitHub · Docker · Power BI · Tableau 
