@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0C447C,100:378ADD&height=200&section=header&text=Muhammad%20Mahi%20Mahessar&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=BI%20Developer%20%7C%20Data%20Engineer%20%7C%20Software%20Engineer&descSize=16&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0C447C,100:378ADD&height=200&section=header&text=Muhammad%20Mahi%20Mahessar&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=BI%20Engineer%20%7C%20Data%20Engineer%20%7C%20Software%20Engineer&descSize=16&descAlignY=58&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0C447C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mahi-mahessar-684832379/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheemahesar39@gmail.com)
@@ -12,17 +12,9 @@
 
 ## 👋 About Me
 
-```yaml
-name       : Muhammad Mahi Mahessar
-location   : Rawalpindi, Pakistan
-education  : BE Software Engineering — NUST (2022–2026)
-role       : BI Associate @ Data BI
-focus      : Data Engineering · Business Intelligence · Full-Stack Development
-publication: "IoT-Enabled Assistive Glove for Real-Time Sign Language Translation
-              Using Machine Learning" — IJIST, July 2025
-```
-
-I design and build **end-to-end data systems** — from raw ingestion pipelines to enterprise Power BI semantic models — and ship full-stack products alongside. Currently deepening expertise in advanced DAX, dimensional modeling, and cloud-native analytics on Azure.
+BI Engineer & Software Engineering student at **NUST** (2022–2026), based in Rawalpindi, Pakistan.
+I build end-to-end data systems — pipelines, semantic models, and dashboards — and ship full-stack products alongside.
+Published researcher in IoT & ML. Currently working as **BI Engineer @ Data BI**.
 
 ---
 
@@ -104,9 +96,11 @@ I design and build **end-to-end data systems** — from raw ingestion pipelines 
 
 <div align="center">
 
-![Mahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadMahi585&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=ffffff)
+![Mahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadMahi585&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=ffffff&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMahi585&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMahi585&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=ffffff&cache_seconds=1800)
+
+![Streak](https://streak-stats.demolab.com?user=MuhammadMahi585&theme=tokyonight&hide_border=true&background=0d1117&ring=378ADD&fire=378ADD&currStreakLabel=378ADD)
 
 </div>
 
