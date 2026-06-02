@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-BI Engineer & Software Engineering student at **NUST** (2022–2026), based in Rawalpindi, Pakistan.
+BE Software Engineering graduate from **NUST** (2022–2026), based in Rawalpindi, Pakistan.
 I build end-to-end data systems — pipelines, semantic models, and dashboards — and ship full-stack products alongside.
 Published researcher in IoT & ML. Currently working as **BI Engineer @ Data BI**.
 
@@ -96,11 +96,10 @@ Published researcher in IoT & ML. Currently working as **BI Engineer @ Data BI**
 
 <div align="center">
 
-![Mahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadMahi585&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=ffffff&cache_seconds=1800)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadMahi585&theme=tokyonight" width="100%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMahi585&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=ffffff&cache_seconds=1800)
-
-![Streak](https://streak-stats.demolab.com?user=MuhammadMahi585&theme=tokyonight&hide_border=true&background=0d1117&ring=378ADD&fire=378ADD&currStreakLabel=378ADD)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadMahi585&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadMahi585&theme=tokyonight" width="49%"/>
 
 </div>
 
